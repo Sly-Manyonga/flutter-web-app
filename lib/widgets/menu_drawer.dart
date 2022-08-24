@@ -9,7 +9,7 @@ class MenuDrawer extends StatelessWidget {
   Widget build(BuildContext context) {
     return Drawer(
       child: Container(
-        color: const Color(0xFF077bd7),
+        color: Colors.deepPurpleAccent,
         child: Padding(
           padding: const EdgeInsets.all(16.0),
           child: Column(

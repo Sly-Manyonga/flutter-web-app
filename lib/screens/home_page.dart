@@ -40,14 +40,14 @@ class _HomePageState extends State<HomePage> {
       extendBodyBehindAppBar: true,
       appBar: (screenSize.width < 800)
           ? AppBar(
-              iconTheme: const IconThemeData(color: Colors.blue),
+              iconTheme: const IconThemeData(color: Colors.deepPurpleAccent),
               elevation: 0,
               backgroundColor: Colors.white.withOpacity(_opacity),
               centerTitle: true,
               title: const Text(
                 'Author',
                 style: TextStyle(
-                  color: Color(0xFF077bd7),
+                  color: Colors.deepPurple,
                   fontSize: 26,
                   fontFamily: 'Raleway',
                   fontWeight: FontWeight.w900,

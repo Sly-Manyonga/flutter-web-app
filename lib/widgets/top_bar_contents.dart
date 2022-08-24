@@ -35,7 +35,7 @@ class _TopBarContentsState extends State<TopBarContents> {
                     const Text(
                       'Author',
                       style: TextStyle(
-                        color: Color(0xFF077bd7),
+                        color: Colors.deepPurple,
                         fontSize: 26,
                         fontFamily: 'Raleway',
                         fontWeight: FontWeight.w900,
