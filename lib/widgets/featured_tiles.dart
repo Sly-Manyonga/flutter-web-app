@@ -1,7 +1,4 @@
-import 'package:dbestech__flutter_web_app/widgets/responsive.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/foundation/key.dart';
-import 'package:flutter/src/widgets/framework.dart';
 
 class FeaturedTiles extends StatefulWidget {
   final Size screenSize;

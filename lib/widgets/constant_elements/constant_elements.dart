@@ -1,1 +1,1 @@
-var constTopEntryASFSAF = null;
+var constTopEntryASFSAF;
